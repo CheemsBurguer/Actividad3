@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Actividad3</string>
+    <string name="tv_home">Soy pou pero chino</string>
+    <string name="btn_home">Poucificacion</string>
+    <string name="iv_homeName">Pou1</string>
+    <string name="poucificacion">Poucificacion terminada</string>
 </resources>
